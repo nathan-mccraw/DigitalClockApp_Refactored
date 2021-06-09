@@ -1,1 +1,19 @@
+html {
+  background: rgb(85, 84, 84);
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
 
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 5em;
+}
+
+h2 {
+  font-family: "Open Sans", sans-serif;
+}
+
+#top {
+  margin: 100px auto;
+}
