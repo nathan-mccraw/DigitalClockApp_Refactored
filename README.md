@@ -2,7 +2,7 @@
 
 ### A simple clock with date/time group.
 
-### Look at the project [here](https://nathan-mccraw.github.io/DigitalClockApp/).
+### Look at the project [here](https://nathan-mccraw.github.io/DigitalClockApp_Refactored/).
 
 Refactored my digital clock app with the input from Trevor Mearns, a coach at the Software Development Mastermind Program
 
